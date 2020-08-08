@@ -1,0 +1,5 @@
+﻿  Hangman game.cpp
+c:\users\nicholas\desktop\c++ codes\hangman\hangman\hangman game.cpp(162): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\nicholas\desktop\c++ codes\hangman\hangman\hangman game.cpp(203): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\nicholas\desktop\c++ codes\hangman\hangman\hangman game.cpp(215): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  Hangman.vcxproj -> C:\Users\Nicholas\Desktop\C++ codes\Hangman\Debug\Hangman.exe
