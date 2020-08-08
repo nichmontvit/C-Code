@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596897786 source:d:\codes\c++ codes\pascal_triangle\main.cpp
+	<iostream>
+	<conio.h>
+
